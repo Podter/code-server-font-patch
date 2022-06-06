@@ -2,6 +2,8 @@
 
 This patchs [code-server](https://github.com/cdr/code-server) to enable load fonts [JetBrains Mono](https://github.com/JetBrains/JetBrainsMono) in server.
 
+CSS from [here](https://gist.github.com/aasmpro/95776294ecf48bd7d0562504bad848ea)
+
 ## Installation
 
 - Clone this repository.
