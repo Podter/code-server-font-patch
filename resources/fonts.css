@@ -129,3 +129,54 @@
   src: url("fonts/webfonts/JetBrainsMono-ExtraBoldItalic.woff2")
     format("woff2");
 }
+
+/* nerd fonts */
+@font-face {
+  font-family: JetBrainsMonoNF;
+  font-style: normal;
+  font-weight: 400;
+  src: url("fonts/nf/JetBrainsMonoRegularNerdFontComplete.ttf") format("truetype");
+}
+@font-face {
+  font-family: JetBrainsMonoNF;
+  font-style: italic;
+  font-weight: 400;
+  src: url("fonts/nf/JetBrainsMonoItalicNerdFontComplete.ttf") format("truetype");
+}
+@font-face {
+  font-family: JetBrainsMonoNF;
+  font-style: normal;
+  font-weight: 500;
+  src: url("fonts/nf/JetBrainsMonoMediumNerdFontComplete.ttf") format("truetype");
+}
+@font-face {
+  font-family: JetBrainsMonoNF;
+  font-style: italic;
+  font-weight: 500;
+  src: url("fonts/nf/JetBrainsMonoMediumItalicNerdFontComplete.ttf") format("truetype");
+}
+@font-face {
+  font-family: JetBrainsMonoNF;
+  font-style: normal;
+  font-weight: 700;
+  src: url("fonts/nf/JetBrainsMonoBoldNerdFontComplete.ttf") format("truetype");
+}
+@font-face {
+  font-family: JetBrainsMonoNF;
+  font-style: italic;
+  font-weight: 700;
+  src: url("fonts/nf/JetBrainsMonoBoldItalicNerdFontComplete.ttf") format("truetype");
+}
+@font-face {
+  font-family: JetBrainsMonoNF;
+  font-style: normal;
+  font-weight: 800;
+  src: url("fonts/nf/JetBrainsMonoExtraBoldNerdFontComplete.ttf") format("truetype");
+}
+@font-face {
+  font-family: JetBrainsMonoNF;
+  font-style: italic;
+  font-weight: 800;
+  src: url("fonts/nf/JetBrainsMonoExtBdItaNerdFontComplete.ttf")
+    format("truetype");
+}

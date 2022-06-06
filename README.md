@@ -24,6 +24,6 @@ sudo ./patch.sh [path-to-code-server]
 You may need to set font family in code-server settings:
 
 ```
-"editor.fontFamily": "JetBrainsMono, monospace",
-"terminal.integrated.fontFamily": "JetBrainsMono, monospace",
+"editor.fontFamily": "JetBrainsMonoNF, JetBrainsMono, monospace",
+"terminal.integrated.fontFamily": "JetBrainsMonoNF, JetBrainsMono, monospace",
 ```
