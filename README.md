@@ -27,3 +27,11 @@ You may need to set font family in code-server settings:
 "editor.fontFamily": "JetBrainsMonoNF, JetBrainsMono, monospace",
 "terminal.integrated.fontFamily": "JetBrainsMonoNF, JetBrainsMono, monospace",
 ```
+
+## Glitch text in terminal
+![Glitch text](img/1.png)
+To fix this, you need to disable privacy features or extensions like DuckDuckGo Privacy Essentials extension.
+
+[Github issue](https://github.com/coder/code-server/issues/5036#issuecomment-1126991999)
+
+[xterm.js FAQ](https://github.com/xtermjs/xterm.js/wiki/FAQ)
